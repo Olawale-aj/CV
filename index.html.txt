@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olawale Ajoro - Curriculum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Olawale Ajoro</h1>
+            <p>Cloud Engineer</p>
+        </header>
+        <section class="section">
+            <h2>Contact Information</h2>
+            <p>Email: olawaleajoro30@gmail.com</p>
+            <p>Phone: +2348144486290</p>
+            <p>Address: Lagos, Nigeria</p>
+        </section>
+        <section class="section">
+            <h2>Education</h2>
+            <p>Bachelor of Science in Industrial Relations and Personnel Management, Lagos State University, Graduated 2016</p>
+        </section>
+        <section class="section">
+            <h2>Work Experience</h2>
+            <p>Cloud Engineer, JPMorgan Chase, 2024-Present</p>
+            <ul>
+                <li>Designing, developing and deploying modular cloud-based systems.</li>
+                <li>Collaborated with cross-functional teams to deliver projects on time.</li>
+            </ul>
+            <p>Intern, Utiva, 2024</p>
+            <ul>
+                <li>Assisted in identifying, analyzing, and resolving infrastructure vulnerabilities and application deployment issues.</li>
+                <li>Interacting with clients, providing cloud support, and making recommendations based on client needs.</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Skills</h2>
+            <p>Proficient in CI/CD systems</p>
+        </section>
+    </div>
+</body>
+</html>
